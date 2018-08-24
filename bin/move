@@ -3,5 +3,5 @@
 require_relative '../lib/move.rb'
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 # Code your CLI Here
-board = display_board(board)
-move(board , 4 , "O")
+board1 = display_board(board)
+move(board1 , 4 , "O")
